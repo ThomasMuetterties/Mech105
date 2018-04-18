@@ -1,6 +1,6 @@
 Desciption:
         
-        This algorith uses bisection method to find the root of a function 
+        This algorith uses bisection method to find the root of a function.  The two guess of the root have to enclose the root so the location has to be somewhat known.
 
 Inputs:
     
