@@ -1,13 +1,13 @@
 function [root,fx,ea,iter] = bisect(func,xl,xu,es,maxit,varargin)
 % bisect: root location zeroes 
-%   [root,fx,ea,iter] = bisect(func,xl,xu,es,maxit,p1,p2,…):
+%   [root,fx,ea,iter] = bisect(func,xl,xu,es,maxit,p1,p2,â€¦):
 %       uses bisection method to find the root of func
 % input:
 %   func = name of function 
 %   xl, xu = lower and upper guesses
 %   es = desired relative error (default = 0.0001%)
 %   maxit = maximum allowable iterations (default = 50)
-%   p1,p2,… = additional parameters used by func
+%   p1,p2,â€¦ = additional parameters used by func
 % output:
 %   root = real root
 %   fx = function value at root
