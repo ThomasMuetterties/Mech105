@@ -8,4 +8,5 @@ Inputs:
       
       y = depedent varaiable numbers in matrix from
    Output:
+   
        I = value for integral for supplied experimental data
