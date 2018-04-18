@@ -1,6 +1,6 @@
 Description: 
 
-    LUFactor completes LU factorization on a square coefficent matrix using pivoting.
+    LUFactor transforms a square coefficent matrix into the L and U matricies while using pivoting.
 
 Inputs:
 
