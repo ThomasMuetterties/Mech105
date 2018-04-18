@@ -1,7 +1,6 @@
 # Description:
-
-    falsePostion uses the false positioning method (or linear interpolation method) to find roots of a function.
-    The lower and upper guesses of the root have to enclose the root so the location of the root has to be somewhat known.
+falsePostion uses the false positioning method (or linear interpolation method) to find roots of a function.
+The lower and upper guesses of the root have to enclose the root so the location of the root has to be somewhat known.
 
 ## Inputs:
     
