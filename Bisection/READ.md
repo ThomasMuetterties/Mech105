@@ -1,5 +1,6 @@
 Desciption:
-This algorith uses bisection method to find the root of a function 
+        
+        This algorith uses bisection method to find the root of a function 
 
 Inputs:
     
