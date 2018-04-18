@@ -1,4 +1,4 @@
-# Mech105
+# Mech105 Algorithms of Numerical Methods
 ## Description
 This repository contains Algorithms for Numerical Methods created during the class Mech105.
 
