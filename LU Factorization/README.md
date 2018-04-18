@@ -1,6 +1,5 @@
 # Description: 
-
-    LUFactor transforms a square 3x3 coefficent matrix into the L and U matricies while using pivoting.
+LUFactor transforms a square 3x3 coefficent matrix into the L and U matricies while using pivoting.
 
 ## Inputs:
 
